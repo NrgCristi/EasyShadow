@@ -1,0 +1,12 @@
+C:\Users\crist\source\repos\EasyShadow\EasyShadow\bin\Debug\EasyShadow.exe.config
+C:\Users\crist\source\repos\EasyShadow\EasyShadow\bin\Debug\EasyShadow.exe
+C:\Users\crist\source\repos\EasyShadow\EasyShadow\bin\Debug\EasyShadow.pdb
+C:\Users\crist\source\repos\EasyShadow\EasyShadow\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\crist\source\repos\EasyShadow\EasyShadow\bin\Debug\Newtonsoft.Json.dll
+C:\Users\crist\source\repos\EasyShadow\EasyShadow\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\crist\source\repos\EasyShadow\EasyShadow\bin\Debug\Newtonsoft.Json.xml
+C:\Users\crist\source\repos\EasyShadow\EasyShadow\obj\Debug\EasyShadow.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\EasyShadow\EasyShadow\obj\Debug\EasyShadow.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\EasyShadow\EasyShadow\obj\Debug\EasyShadow.csproj.CopyComplete
+C:\Users\crist\source\repos\EasyShadow\EasyShadow\obj\Debug\EasyShadow.exe
+C:\Users\crist\source\repos\EasyShadow\EasyShadow\obj\Debug\EasyShadow.pdb
